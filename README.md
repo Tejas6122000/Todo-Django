@@ -2,10 +2,10 @@
 Implemented a Todo list using Django which is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 
 ## Technology Stack :
-*HTML
-*CSS
-*Bootstrap
-*Python-Django
+* HTML
+* CSS
+* Bootstrap
+* Python-Django
 
 ## Quick Start
 Start the server using runserver command from manage.py
