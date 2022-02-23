@@ -1,0 +1,6 @@
+Q3. Which python framework is easier to work with & why ?
+
+I found Flask to be quite easy as it just has one app.py file in which we can write all our backend code easily.
+But for big projects there will be many pages and for that django is better as we can build multiple apps within a single django projects.
+The code we write in Django's views.py is almost similar to that of Flask's app.py, hence I personally don't find django that difficult.
+Additionally Django's prebuilt admin dashboard makes managing databases quite easy.
